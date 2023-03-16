@@ -1,4 +1,7 @@
 (sym_lib_table
-  (lib (name "mcu")(type "KiCad")(uri "/home/matthias/Data/proj/SPC_EVDR/submodules/kleeb/mcu.kicad_sym")(options "")(descr ""))
-  (lib (name "kbd")(type "Legacy")(uri "/home/matthias/Data/proj/SPC_EVDR/submodules/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "mcu")(type "KiCad")(uri "${KIPRJMOD}/submodules/kleeb/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/submodules/kbd/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
+  (lib (name "KLORlib")(type "KiCad")(uri "${KIPRJMOD}/submodules/KLORlib.kicad_sym")(options "")(descr ""))
+  (lib (name "SKRHAAE010")(type "KiCad")(uri "${KIPRJMOD}/submodules/mouser/SKRHAAE010.kicad_sym")(options "")(descr ""))
 )

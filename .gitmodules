@@ -7,3 +7,6 @@
 [submodule "kbd"]
 	path = submodules/kbd
 	url = https://github.com/foostan/kbd
+[submodule "cad/pcb/submodules/weteor_kicad_lib"]
+	path = cad/pcb/submodules/weteor_kicad_lib
+	url = https://github.com/weteor/weteor_kicad_lib.git
