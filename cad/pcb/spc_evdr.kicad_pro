@@ -1,6 +1,26 @@
 {
   "board": {
-    "3dviewports": [],
+    "3dviewports": [
+      {
+        "name": "FRONT",
+        "ww": 1.0,
+        "wx": -4.934545993804932,
+        "wy": 3.0393669605255127,
+        "wz": -6.348013401031494,
+        "xw": 0.0,
+        "xx": 1.0,
+        "xy": 0.0,
+        "xz": 0.0,
+        "yw": 0.0,
+        "yx": 0.0,
+        "yy": 1.0,
+        "yz": 0.0,
+        "zw": 0.0,
+        "zx": 0.0,
+        "zy": 0.0,
+        "zz": 1.0
+      }
+    ],
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.09999999999999999,
@@ -71,7 +91,8 @@
         "copper_edge_clearance|144374000|18961200|3fc0721e-82ae-42cc-b381-b34440d70250|2a5f4e6d-0b05-40af-95f5-7a48131f7f26",
         "copper_edge_clearance|146863200|25362000|1b340eb1-a1c4-484d-a34d-339e54d7ed17|5c1effa6-5fdd-4047-855e-674a57e0182e",
         "copper_edge_clearance|147526715|23646445|46a02fbd-85f3-4783-91c5-70342eca64d5|87c8985e-62f0-44d8-9336-f9096385bd4c",
-        "copper_edge_clearance|147549000|23634800|6dc9b606-c3ac-4fc1-afe3-8c5d99c6f3e2|87c8985e-62f0-44d8-9336-f9096385bd4c"
+        "copper_edge_clearance|147549000|23634800|6dc9b606-c3ac-4fc1-afe3-8c5d99c6f3e2|87c8985e-62f0-44d8-9336-f9096385bd4c",
+        "copper_edge_clearance|36377689|40107190|f7cccd3c-7dc0-4ecc-902f-d67b0b1bb12f|e0c29e48-7d5d-4bce-ab73-930b32c1a43f"
       ],
       "meta": {
         "version": 2
