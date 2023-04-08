@@ -1,4 +1,4 @@
-21746102022552102
+22000968983730561
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2327,6 +2327,13 @@ Buzzer_Beeper
 MagneticBuzzer_Kingstate_KCG0601
 Buzzer, Elektromagnetic Beeper, Summer,
 Kingstate KCG0601 
+0
+2
+2
+Buzzer_Beeper
+MagneticBuzzer_Kobitone_254-EMB73-RO
+MagneticBuzzer_Kobitone_254-EMB73-RO https://www.mouser.es/datasheet/2/209/joytech_11092018_KT-400379-1501513.pdf
+MagneticBuzzer_Kobitone_254-EMB73-RO
 0
 2
 2
@@ -7965,6 +7972,13 @@ THT Mini XLR 5Pin right angle
 0
 5
 5
+Connector_Audio
+Plug_3.5mm_CUI_SP-3541
+4 contacts, 3.5mm audio plug, https://www.cuidevices.com/product/resource/pdf/sp-3541.pdf
+3.5mm plug TRRS
+0
+4
+4
 Connector_BarrelJack
 BarrelJack_CLIFF_FC681465S_SMT_Horizontal
 Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf
@@ -8356,6 +8370,13 @@ Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.co
 mcrf hirose ufl u.fl microcoaxial
 0
 4
+2
+Connector_Coaxial
+WR-MMCX_Wuerth_66011102111302_Horizontal
+Würth WR-MMCX PCB SMT Jack, Horizontal (https://www.we-online.com/components/products/datasheet/66011102111302.pdf)
+Coaxial Connector 50 ohms Female
+0
+7
 2
 Connector_DIN
 DIN41612_B2_2x8_Female_Vertical_THT
@@ -46795,6 +46816,13 @@ USB-A receptacle horizontal through-hole
 6
 5
 Connector_USB
+USB_A_CUI_UJ2-ADH-TH_Horizontal_Stacked
+USB-A two stacked horizontal receptacle, through-hole (https://www.cuidevices.com/product/resource/uj2-adh-th.pdf)
+USB-A CUI stacked horizontal through-hole
+0
+12
+9
+Connector_USB
 USB_A_Molex_67643_Horizontal
 USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf
 USB_A Female Connector receptacle
@@ -53102,6 +53130,13 @@ http://www.display-elektronik.de/filter/DE122-RS-20_635.pdf
 50
 50
 Display_7Segment
+DE152-XX-XX
+https://tft-module.de/filter/DE152-RS-20_75.pdf
+4 digit 7 segment LCD 
+0
+40
+40
+Display_7Segment
 DE170-XX-XX
 http://www.display-elektronik.de/filter/DE170-RS-20_75.pdf
 3 1/5 digit reflective arrow bat + 7 segment LCD 
@@ -54824,6 +54859,202 @@ Bourns SRR1260 SMD inductor
 2
 2
 Inductor_SMD
+L_Changjiang_FNR3010S
+Inductor, Changjiang, FNR3010S, 3.0x3.0x1.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR3012S
+Inductor, Changjiang, FNR3012S, 3.0x3.0x1.2mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR3015S
+Inductor, Changjiang, FNR3015S, 3.0x3.0x1.5mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR3021S
+Inductor, Changjiang, FNR3021S, 3.0x3.0x2.35mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR4010S
+Inductor, Changjiang, FNR4010S, 4.0x4.0x1.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR4012S
+Inductor, Changjiang, FNR4012S, 4.0x4.0x1.2mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR4015S
+Inductor, Changjiang, FNR4015S, 4.0x4.0x1.65mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR4018S
+Inductor, Changjiang, FNR4018S, 4.0x4.0x1.8mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR4020S
+Inductor, Changjiang, FNR4020S, 4.0x4.0x2.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR4026S
+Inductor, Changjiang, FNR4026S, 4.0x4.0x2.6mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR4030S
+Inductor, Changjiang, FNR4030S, 4.0x4.0x3.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR5012S
+Inductor, Changjiang, FNR5012S, 5.0x5.0x1.2mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR5015S
+Inductor, Changjiang, FNR5015S, 5.0x5.0x1.5mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR5020S
+Inductor, Changjiang, FNR5020S, 5.0x5.0x2.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR5030S
+Inductor, Changjiang, FNR5030S, 5.0x5.0x3.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR5040S
+Inductor, Changjiang, FNR5040S, 5.0x5.0x4.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR5045S
+Inductor, Changjiang, FNR5045S, 5.0x5.0x4.5mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR6020S
+Inductor, Changjiang, FNR6020S, 6.0x6.0x2.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR6028S
+Inductor, Changjiang, FNR6028S, 6.0x6.0x2.8mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR6040S
+Inductor, Changjiang, FNR6040S, 6.0x6.0x4.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR6045S
+Inductor, Changjiang, FNR6045S, 6.0x6.0x4.5mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR8040S
+Inductor, Changjiang, FNR8040S, 8.0x8.0x4.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR8050S
+Inductor, Changjiang, FNR8050S, 8.0x8.0x5.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR8065S
+Inductor, Changjiang, FNR8065S, 8.0x8.0x6.5mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR252010S
+Inductor, Changjiang, FNR252010S, 2.5x2.0x1.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Changjiang_FNR252012S
+Inductor, Changjiang, FNR252012S, 2.5x2.0x1.2mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRA00040415
+Inductor, Chilisin, BMRA00040415, 4.6x4.1x1.5mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRA00040420
+Inductor, Chilisin, BMRA00040420, 4.6x4.1x2.0mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
 L_Chilisin_BMRA00050520
 Inductor, Chilisin, BMRA00050520, 5.7x5.4x1.8mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
 Inductor bmrx mchi
@@ -54833,6 +55064,27 @@ Inductor bmrx mchi
 Inductor_SMD
 L_Chilisin_BMRA00050530
 Inductor, Chilisin, BMRA00050530, 5.7x5.4x3.0mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRB00050512
+Inductor, Chilisin, BMRB00050512, 5.7x5.4x1.2mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRB00050518
+Inductor, Chilisin, BMRB00050518, 5.7x5.4x1.8mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRB00050518-B
+Inductor, Chilisin, BMRB00050518-B, 5.4x5.2x1.6mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
 Inductor bmrx mchi
 0
 2
@@ -54903,6 +55155,27 @@ Inductor bmrx mchi
 Inductor_SMD
 L_Chilisin_BMRG00131360
 Inductor, Chilisin, BMRG00131360, 13.8x12.6x6.0mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRx00040412
+Inductor, Chilisin, BMRx00040412, 4.6x4.1x1.2mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRx00050512-B
+Inductor, Chilisin, BMRx00050512-B, 5.4x5.2x1.2mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
+Inductor bmrx mchi
+0
+2
+2
+Inductor_SMD
+L_Chilisin_BMRx00050515
+Inductor, Chilisin, BMRx00050515, 5.7x5.4x1.5mm, https://www.chilisin.com/upload/media/product/power/file/BMRx_Series.pdf
 Inductor bmrx mchi
 0
 2
@@ -55412,6 +55685,13 @@ Wuerth WE-SL2
 4
 4
 Inductor_SMD
+L_Eaton_MCL2012V1
+Inductor, Eaton, MCL2012V1, 2.0x1.2x0.9mm, https://eu.mouser.com/datasheet/2/87/eaton-mcl2012v1-multilayer-chip-inductor-data-shee-1622891.pdf
+Inductor ferrite multilayer power
+0
+2
+2
+Inductor_SMD
 L_Fastron_PISN
 Choke, Drossel, PISN, SMD, Fastron,
 Choke Drossel PISN SMD Fastron 
@@ -55492,6 +55772,13 @@ Inductor_SMD
 L_Murata_DEM35xxC
 https://www.murata.com/~/media/webrenewal/products/inductor/chip/tokoproducts/wirewoundferritetypeforpl/m_dem3518c.ashx
 Inductor SMD DEM35xxC
+0
+2
+2
+Inductor_SMD
+L_Murata_DFE201610P
+Inductor, Murata, DFE201610P, 2.0x1.6x1.0mm, https://www.murata.com/~/media/webrenewal/products/inductor/chip/tokoproducts/wirewoundmetalalloychiptype/m_dfe201610p.ashx
+Inductor power chip flatwire
 0
 2
 2
@@ -56449,22 +56736,43 @@ Inductor swpa
 2
 Inductor_SMD
 L_Sunlord_SWRB1204S
-Inductor, Sunlord, SWRB1204S, 12.5x12.5x5.0mm, https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMTA2MTAxMTMyMzc4MTEucGRm&lan=
+Inductor, Sunlord, SWRB1204S, 12.5x12.5x5.0mm, https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMTA2MTAxMTMyMzc4MTEucGRm&lan=en
 Inductor swrb
 0
 2
 2
 Inductor_SMD
 L_Sunlord_SWRB1205S
-Inductor, Sunlord, SWRB1205S, 12.5x12.5x6.0mm, https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMTA2MTAxMTMyMzc4MTEucGRm&lan=
+Inductor, Sunlord, SWRB1205S, 12.5x12.5x6.0mm, https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMTA2MTAxMTMyMzc4MTEucGRm&lan=en
 Inductor swrb
 0
 2
 2
 Inductor_SMD
 L_Sunlord_SWRB1207S
-Inductor, Sunlord, SWRB1207S, 12.5x12.5x8.0mm, https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMTA2MTAxMTMyMzc4MTEucGRm&lan=
+Inductor, Sunlord, SWRB1207S, 12.5x12.5x8.0mm, https://www.sunlordinc.com/Download.aspx?file=L1VwbG9hZEZpbGVzL1BERl9DYXQvMjAyMTA2MTAxMTMyMzc4MTEucGRm&lan=en
 Inductor swrb
+0
+2
+2
+Inductor_SMD
+L_TDK_MLZ1608
+Inductor, TDK, MLZ1608, 1.6x0.8x0.8mm,  "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_decoupling_mlz1608_en.pdf"
+Inductor MLZ
+0
+2
+2
+Inductor_SMD
+L_TDK_MLZ2012_h0.85mm
+Inductor, TDK, MLZ2012_h0.85mm, 2.0x1.25x0.85mm,  "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_decoupling_mlz2012_en.pdf"
+Inductor MLZ
+0
+2
+2
+Inductor_SMD
+L_TDK_MLZ2012_h1.25mm
+Inductor, TDK, MLZ2012_h1.25mm, 2.0x1.25x1.25mm,  "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_decoupling_mlz2012_en.pdf"
+Inductor MLZ
 0
 2
 2
@@ -56836,6 +57144,27 @@ Inductor_SMD
 L_Vishay_IHSM-7832
 Inductor, Vishay, Vishay_IHSM-7832, http://www.vishay.com/docs/34021/ihsm7832.pdf, 19.8mmx8.1mm
 inductor vishay icsm smd
+0
+2
+2
+Inductor_SMD
+L_Walsin_WLFM201209x
+Inductor, Walsin, WLFM201209x, 2.0x1.25x0.9mm, http://www.passivecomponent.com/wp-content/uploads/inductor/WLFM_C_series.pdf
+Inductor ferrite multilayer power
+0
+2
+2
+Inductor_SMD
+L_Walsin_WLFM201609x
+Inductor, Walsin, WLFM201609x, 2.0x1.6x0.9mm, http://www.passivecomponent.com/wp-content/uploads/inductor/WLFM_C_series.pdf
+Inductor ferrite multilayer power
+0
+2
+2
+Inductor_SMD
+L_Walsin_WLFM252009x
+Inductor, Walsin, WLFM252009x, 2.5x2.0x0.9mm, http://www.passivecomponent.com/wp-content/uploads/inductor/WLFM_C_series.pdf
+Inductor ferrite multilayer power
 0
 2
 2
@@ -59254,6 +59583,118 @@ solder jumper open
 0
 5
 3
+KLOR
+Buzzer_Mallory_AST1109MLTRQ_reversible
+Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
+buzzer piezo
+0
+2
+2
+KLOR
+Diode_SOD123
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+2
+2
+KLOR
+JST_PH_reversible
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+2
+2
+KLOR
+Jumper
+
+
+0
+2
+2
+KLOR
+MJ-4PP-9
+
+
+0
+8
+4
+KLOR
+MSK12C02_reversible
+
+
+0
+10
+4
+KLOR
+Pimoroni Haptic Buzz DRV2605L Driver
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+KLOR
+ProMicro
+
+
+0
+48
+24
+KLOR
+R_1206_DoubleSided
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+4
+2
+KLOR
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+KLOR
+SK6812MINI_and_cherry
+
+
+0
+12
+6
+KLOR
+SSD1306_128x64OLED
+
+
+0
+4
+4
+KLOR
+SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010_both_sides
+Side push button (https://www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKRT/SKRT.pdf)
+push horizontal SPST 1P1T
+0
+5
+3
+KLOR
+SplitkbTentingPuckWithoutCenterHole
+https://splitkb.com/products/tenting-puck
+split kb tenting puck mechanical mounting
+0
+3
+1
+KLOR
+custombatteryconnector_small
+Soldered wire connection, for 2 times 0.75 mm² wires, reinforced insulation, conductor diameter 1.25mm, outer diameter 3.5mm, size source Multi-Contact FLEXI-xV 0.75 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+connector wire 0.75sqmm
+0
+2
+2
+KLOR
+lvc27_onlyInput
+
+
+0
+5
+5
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -59786,6 +60227,13 @@ LED RGB NeoPixel
 0
 6
 6
+LED_SMD
+LED_Wurth_150044M155260
+Wurth Common anode RGB LED, SMD, 0404, 1x1x1.65mm, https://www.we-online.com/catalog/datasheet/150044M155260.pdf
+LED RGB ARGB 
+0
+4
+4
 LED_SMD
 LED_Yuji_5730
 LED,Yuji,5730,https://cdn.shopify.com/s/files/1/0344/6401/files/YJWJ014-1.1_YJ-BC-5730L-G02.pdf
@@ -60556,6 +61004,13 @@ Maple Mini
 0
 40
 40
+Module
+Olimex_MOD-WIFI-ESP8266-DEV
+ESP8266 development board https://www.olimex.com/Products/IoT/ESP8266/MOD-WIFI-ESP8266-DEV/resources/dimensions-WIFI-ESP8266-DEV.png
+ESP8266
+0
+22
+22
 Module
 Onion_Omega2+
 https://onion.io/omega2/
@@ -63098,6 +63553,13 @@ Broadcom DFN NoLead
 6
 6
 OptoDevice
+Broadcom_LGA-8_2x2mm_P0.5mm
+Broadcom  LGA, 8 Pin (https://docs.broadcom.com/doc/APDS-9251-001-DS#page=19), generated with kicad-footprint-generator ipc_noLead_generator.py
+Broadcom LGA NoLead
+0
+8
+8
+OptoDevice
 Broadcom_LGA-8_2x2mm_P0.53mm
 Broadcom  LGA, 8 Pin (https://docs.broadcom.com/docs/AV02-4755EN), generated with kicad-footprint-generator ipc_noLead_generator.py
 Broadcom LGA NoLead
@@ -64008,6 +64470,13 @@ SMD SMT crystal oscillator hand-soldering
 4
 4
 Oscillator
+Oscillator_SMD_SiTime_PQFD-6L_3.2x2.5mm
+3.2x2.5mm, 6-pin QFN (https://www.sitime.com/datasheet/SiT9365 page 13)
+SMD SMT mems oscillator
+0
+6
+6
+Oscillator
 Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm
 3.2x2.5mm, 1-220MHz High Performance Differential Oscillator SiTime SiT9121 https://www.sitime.com/datasheet/SiT9121
 SMD SMT crystal oscillator
@@ -64070,6 +64539,13 @@ BGA 49 0.8
 0
 49
 49
+Package_BGA
+Analog_BGA-209_9.5x16mm_Layout11x19_P0.8mm_Ball0.5mm_Pad0.4mm
+Analog BGA-209 (Reference LTC DWG#05-08-1561 Rev B), 9.5x16.0mm, 209 Ball, 11x19 Layout, 0.8mm Pitch, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-bga/05081561_bga209.pdf
+BGA 209 0.8
+0
+209
+209
 Package_BGA
 BGA-9_1.6x1.6mm_Layout3x3_P0.5mm
 BGA-9, http://www.ti.com/lit/ds/symlink/bq27421-g1.pdf
@@ -64602,6 +65078,13 @@ BGA 265 0.8
 0
 265
 265
+Package_BGA
+Texas_BGA-289_15.0x15.0mm_Layout17x17_P0.8mm_Ball0.5mm_Pad0.4mm
+Texas Instruments BGA-289, 0.4mm pad, 15x15mm, 289 Ball, 17x17 Layout, 0.8mm Pitch, https://www.ti.com/lit/ml/mpbg777/mpbg777.pdf
+BGA 289 0.8 ZAV S-PBGA-N289
+0
+289
+289
 Package_BGA
 Texas_DSBGA-5_0.822x1.116mm_Layout2x1x2_P0.4mm
 Texas Instruments, DSBGA, 0.822x1.116mm, 5 bump 2x1x2 array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/opa330.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)
@@ -65191,6 +65674,20 @@ LFCSP 8 0.5
 12
 5
 Package_CSP
+Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm
+Analog  LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_16_23.pdf, CP-16-23), generated with kicad-footprint-generator ipc_noLead_generator.py
+Analog LFCSP NoLead
+0
+21
+17
+Package_CSP
+Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias
+Analog  LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_16_23.pdf, CP-16-23), generated with kicad-footprint-generator ipc_noLead_generator.py
+Analog LFCSP NoLead
+0
+31
+17
+Package_CSP
 Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.35x2.35mm
 Analog  LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_16_20.pdf, CP-16-20), generated with kicad-footprint-generator ipc_noLead_generator.py
 Analog LFCSP NoLead
@@ -65473,6 +65970,34 @@ LFCSP NoLead
 Package_CSP
 LFCSP-40-1EP_6x6mm_P0.5mm_EP3.9x3.9mm_ThermalVias
 LFCSP, 40 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_40_14.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+55
+41
+Package_CSP
+LFCSP-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm
+LFCSP, 40 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-40/CP_40_15.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+45
+41
+Package_CSP
+LFCSP-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm_ThermalVias
+LFCSP, 40 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-40/CP_40_15.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+55
+41
+Package_CSP
+LFCSP-40-1EP_6x6mm_P0.5mm_EP4.65x4.65mm
+LFCSP, 40 Pin (https://www.jedec.org/system/files/docs/MO-220K01.pdf (variation VJJD-5)), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+45
+41
+Package_CSP
+LFCSP-40-1EP_6x6mm_P0.5mm_EP4.65x4.65mm_ThermalVias
+LFCSP, 40 Pin (https://www.jedec.org/system/files/docs/MO-220K01.pdf (variation VJJD-5)), generated with kicad-footprint-generator ipc_noLead_generator.py
 LFCSP NoLead
 0
 55
@@ -68733,6 +69258,20 @@ TQFN NoLead
 31
 17
 Package_DFN_QFN
+TQFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF (T2044-5C)), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+25
+21
+Package_DFN_QFN
+TQFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF (T2044-5C)), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+35
+21
+Package_DFN_QFN
 TQFN-20-1EP_4x4mm_P0.5mm_EP2.9x2.9mm
 TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-100172.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
 TQFN NoLead
@@ -69363,6 +69902,13 @@ Texas QFN NoLead
 14
 14
 Package_DFN_QFN
+Texas_UQFN-10_1.5x2mm_P0.5mm
+Texas RSE0010A UQFN, 10 Pin (https://www.ti.com/lit/ml/mpqf186d/mpqf186d.pdf)
+Texas RSE0010 UQFN NoLead
+0
+10
+10
+Package_DFN_QFN
 Texas_VQFN-RHL-20
 http://www.ti.com/lit/ds/symlink/bq51050b.pdf
 RHL0020A
@@ -69383,6 +69929,13 @@ Texas VSON-HR NoLead
 0
 8
 8
+Package_DFN_QFN
+Texas_WQFN-10_2x2mm_P0.5mm
+Texas  WQFN, 10 Pin (https://www.ti.com/lit/ds/symlink/tmp461.pdf#page=35 (RUN0010A)), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+10
+10
 Package_DFN_QFN
 Texas_WQFN-MR-100_3x3-DapStencil
 http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=mpqf258&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=LPPD235&fileType=pdf
@@ -72240,6 +72793,13 @@ Analog Devices (Linear Tech), 133-pin LGA uModule, 15.0x15.0x4.32mm, https://www
 133
 133
 Package_LGA
+MPS_LGA-18-10EP_12x12mm_P3.3mm
+MPS LGA-18 12x12x3.82mm (https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MPM3550EGLE/document_id/5102/)
+MPS LGA
+0
+18
+18
+Package_LGA
 NXP_LGA-8_3x5mm_P1.25mm_H1.1mm
 NXP  LGA, 8 Pin (https://www.nxp.com/docs/en/data-sheet/MPL3115A2.pdf#page=42), generated with kicad-footprint-generator ipc_noLead_generator.py
 NXP LGA NoLead
@@ -73765,6 +74325,13 @@ Power Integrations K Package
 0
 12
 12
+Package_SO
+PowerPAK_SO-8L_Single
+PowerPAK SO-8L Single (https://www.vishay.com/docs/64721/an913.pdf)
+PowerPAK SO-8L_Single
+0
+13
+5
 Package_SO
 PowerPAK_SO-8_Dual
 PowerPAK SO-8 Dual (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72600/72600.pdf)
@@ -76426,6 +76993,13 @@ SOT-563
 6
 6
 Package_TO_SOT_SMD
+SOT-583-8
+https://www.ti.com/lit/ds/symlink/tps62933.pdf
+SOT-583-8
+0
+8
+8
+Package_TO_SOT_SMD
 SOT-665
 SOT665
 SOT-665
@@ -76845,6 +77419,13 @@ SOT R-PDSO-N5 DRL
 0
 5
 5
+Package_TO_SOT_SMD
+Texas_R-PDSO-N6_DRL-6
+R-PDSO-N6, DRL, similar to JEDEC MO-293B Var UAAD (but not the same) , https://www.ti.com/lit/pdf/mpds159f
+SOT R-PDSO-N6 DRL
+0
+6
+6
 Package_TO_SOT_SMD
 VSOF5
 VSOF5
@@ -79463,6 +80044,20 @@ APAES patch antenna
 0
 1
 1
+RF_Antenna
+Abracon_PRO-OB-440
+Abracon OnBoard SMD antenna 2400-2500Mhz, https://abracon.com/datasheets/PRO-OB-440.pdf
+2400 PRO-OB-440 Antenna
+0
+4
+4
+RF_Antenna
+Abracon_PRO-OB-471
+OnBoard 868/915/868+2400 MHz Antenna, https://abracon.com/datasheets/PRO-OB-471.pdf
+Antenna ProAnt OnBoard 868Mhz 915Mhz 2400Mhz
+0
+6
+6
 RF_Antenna
 Coilcraft_MA5532-AE_RFID
 RFID Transponder Coil
@@ -88332,6 +88927,13 @@ transformer flyback
 0
 6
 6
+Transformer_SMD
+Transformer_Wurth_WE-AGDT-EP7
+WE-AGDT Auxiliary Gate Drive Transformer EP7, https://www.we-online.com/components/products/datasheet/750319177.pdf
+auxiliary gate drive transformer
+0
+8
+8
 Transformer_THT
 Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30
 Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 9mm, Amidon T30,
@@ -90201,6 +90803,342 @@ xiao-tht
 0
 18
 18
+mouser
+SKQUCAA010
+SKQUCAA010-3
+Switch
+0
+6
+6
+mouser
+SKRHAAE010
+SKRHAAE010
+Switch
+0
+8
+8
+reversible-kicad-footprints
+5Way-K1-1506DN-01
+
+
+0
+18
+6
+reversible-kicad-footprints
+5Way-K1-1506DN-01_Cutout
+
+
+0
+0
+0
+reversible-kicad-footprints
+C-0805_2012Metric
+SMD Resistor 0805 (2012 Metric)
+
+0
+10
+2
+reversible-kicad-footprints
+CP_3216
+3216 Tantalum
+capacitor tantalum
+0
+10
+2
+reversible-kicad-footprints
+CP_6032
+6032 Tantalum
+capacitor tantalum
+0
+10
+2
+reversible-kicad-footprints
+D_SOD-123
+SOD-123 Diode
+SOD-123 diode
+0
+10
+2
+reversible-kicad-footprints
+EC11_Switch
+
+rotary encoder
+0
+7
+6
+reversible-kicad-footprints
+EC11_Switch_Cutout
+
+
+0
+0
+0
+reversible-kicad-footprints
+Fuse_0805_2012Metric
+Fuse SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor
+0
+10
+2
+reversible-kicad-footprints
+Fuse_1206_3216Metric
+Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+10
+2
+reversible-kicad-footprints
+Fuse_1812_4532Metric
+Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+resistor
+0
+18
+2
+reversible-kicad-footprints
+HRO-TYPE-C-31-M-12-HandSoldering-NoSBU
+
+
+0
+36
+12
+reversible-kicad-footprints
+L-0805_2012Metric
+SMD Resistor 0805 (2012 Metric)
+
+0
+10
+2
+reversible-kicad-footprints
+LCD-ILI9341-2.2in
+
+
+0
+18
+9
+reversible-kicad-footprints
+LCD-ILI9341-2.2in_Cutout
+
+
+0
+0
+0
+reversible-kicad-footprints
+MX-1U-Cap0805
+
+
+0
+12
+2
+reversible-kicad-footprints
+MX-1U-D_SOD-123
+1U SOD-123 Diode
+
+0
+12
+2
+reversible-kicad-footprints
+MX-1U-EC11_Switch
+
+rotary encoder
+0
+7
+6
+reversible-kicad-footprints
+MX-1U-EC11_Switch_Cutout
+
+
+0
+0
+0
+reversible-kicad-footprints
+MX-1U-Hotswap
+1U Kailh MX Hotswap
+
+0
+20
+2
+reversible-kicad-footprints
+MX-1U-Hotswap-NoBorder
+1U Kailh MX Hotswap
+
+0
+20
+2
+reversible-kicad-footprints
+MX-1U-PlateCutout
+
+
+0
+0
+0
+reversible-kicad-footprints
+MX-1U-SK6812Mini-E
+
+
+0
+22
+4
+reversible-kicad-footprints
+MX-1U-Template
+
+
+0
+0
+0
+reversible-kicad-footprints
+OLED-SSD1306-128x64
+
+
+0
+8
+4
+reversible-kicad-footprints
+PJ-3136-B
+
+
+0
+6
+3
+reversible-kicad-footprints
+Piezo-KLJ-1625
+
+
+0
+2
+2
+reversible-kicad-footprints
+PushButton_4.5mm
+
+
+0
+4
+2
+reversible-kicad-footprints
+PushButton_4.5mm_Cutout
+
+
+0
+0
+0
+reversible-kicad-footprints
+R-0805_2012Metric
+SMD Resistor 0805 (2012 Metric)
+
+0
+10
+2
+reversible-kicad-footprints
+SK6812Mini-E
+RGB LED
+rgb led
+0
+22
+4
+reversible-kicad-footprints
+SMD_Push
+
+
+0
+14
+2
+reversible-kicad-footprints
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+40
+8
+reversible-kicad-footprints
+SOIC-8_5.23x5.23mm_P1.27mm
+SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+40
+8
+reversible-kicad-footprints
+SOT-23-3
+6-pin SOT-23 package
+SOT-23-3
+0
+15
+3
+reversible-kicad-footprints
+SOT-23-3_OLD
+3-pin SOT-23 package
+SOT-23-3
+0
+15
+3
+reversible-kicad-footprints
+SOT-23-5
+6-pin SOT-23 package
+SOT-23-5
+0
+29
+5
+reversible-kicad-footprints
+SOT-23-5_OLD
+5-pin SOT-23 package
+SOT-23-5
+0
+26
+5
+reversible-kicad-footprints
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+36
+6
+reversible-kicad-footprints
+SOT-23-6_OLD
+6-pin SOT-23 package
+SOT-23-6
+0
+32
+6
+reversible-kicad-footprints
+SOT-223-3_TabPin2
+module CMS SOT223 4 pins
+CMS SOT
+0
+20
+3
+reversible-kicad-footprints
+SOT-363_SC-70-5
+SOT-363, SC-70-5
+SOT-363 SC-70-5
+0
+26
+5
+reversible-kicad-footprints
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+32
+6
+reversible-kicad-footprints
+SolderJumper-1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+6
+2
+reversible-kicad-footprints
+SolderJumper-1.0x1.5mm_x2
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+12
+4
+reversible-kicad-footprints
+TestPoint
+
+test point plated hole
+0
+1
+1
 weteor
 1.54 epaper display
 
